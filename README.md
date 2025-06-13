@@ -3,7 +3,7 @@
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-brightgreen)
 
-> A menu-driven scientific calculator built in **C++**, using **Object-Oriented Programming principles**.
+> A menu driven scientific calculator built in **C++**, using **Object-Oriented Programming principles**.
 
 ---
 
