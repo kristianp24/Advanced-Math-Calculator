@@ -12,7 +12,7 @@
 This calculator:
 - 📥 Accepts **arithmetic expressions** as string input
 - 🔢 Performs **scientific calculations** and displays results in real-time
-- 🗂️ Includes a user-friendly **menu system** for ease of navigation
+- 🗂️ Includes a user friendly **menu system** for ease of navigation
 - 💾 Can **save calculations to a text file**
 - 📁 Can **read numeric data from a binary file**
   
@@ -33,6 +33,7 @@ This project demonstrates **C++ OOP fundamentals** including:
 ---
 
 📂 Features Overview
+
 ✍️ Parse and compute expressions from user input
 
 🧾 View result history through the menu
@@ -41,7 +42,6 @@ This project demonstrates **C++ OOP fundamentals** including:
 
 📤 Read data from a binary .bin file
 
-👨‍💻 Fully terminal-based, no external dependencies
 
 ---
 
